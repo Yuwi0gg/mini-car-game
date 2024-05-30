@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Car Race.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Car Game.cpp
+c:\users\yuwantha\desktop\finalllll game\mygame22\mygame22\car game.cpp : fatal error C1001: An internal error has occurred in the compiler.
+  (compiler file 'f:\dd\vctools\compiler\cxxfe\sl\p1\c\p0io.c', line 2812)
+   To work around this problem, try simplifying or changing the program near the locations listed above.
+  Please choose the Technical Support command on the Visual C++ 
+   Help menu, or open the Technical Support help file for more information

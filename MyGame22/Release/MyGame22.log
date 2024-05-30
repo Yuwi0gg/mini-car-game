@@ -1,0 +1,15 @@
+﻿Build started 10/20/2020 4:24:43 PM.
+     1>Project "C:\Users\Yuwantha\Desktop\FINALLLLL GAME\MyGame22\MyGame22\MyGame22.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Car Game.cpp"
+         Car Game.cpp
+     1>Car Game.cpp : fatal error C1001: An internal error has occurred in the compiler.
+         (compiler file 'f:\dd\vctools\compiler\cxxfe\sl\p1\c\p0io.c', line 2812)
+          To work around this problem, try simplifying or changing the program near the locations listed above.
+         Please choose the Technical Support command on the Visual C++ 
+          Help menu, or open the Technical Support help file for more information
+     1>Done Building Project "C:\Users\Yuwantha\Desktop\FINALLLLL GAME\MyGame22\MyGame22\MyGame22.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34
